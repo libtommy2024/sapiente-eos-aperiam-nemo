@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/sapiente-eos-aperiam-nemo",
-  "version": "12.28.315",
+  "version": "12.28.316",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -766,5 +766,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/sapiente-eos-aperiam-nemo/issues"
   },
-  "packageManager": "yarn@4.9.0"
+  "packageManager": "yarn@4.9.1"
 }
